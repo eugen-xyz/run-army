@@ -1,4 +1,4 @@
-baseURL = "http://172.17.0.3:32768/"
+baseURL = "/"
 languageCode = "en-us"
 title = "RUN ARMY"
 theme = "hugo-strata-theme"
